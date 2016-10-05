@@ -1,3 +1,6 @@
+# Motorola
+add_lunch_combo pa_clark-userdebug
+
 # Nexus
 add_lunch_combo pa_bullhead-userdebug
 add_lunch_combo pa_angler-userdebug
